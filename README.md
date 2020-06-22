@@ -1,6 +1,8 @@
 # todolist
 
-A new Flutter application.
+Made a to-do list application in Flutter using concepts of async, await and futures to get data
+saved locally by the user to import previous to-do list. This was built using Flutter and Android
+Studio with the Dart Plugin v192.7761
 
 ## Getting Started
 
